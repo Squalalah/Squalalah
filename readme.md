@@ -6,7 +6,6 @@ Note de moi du passé : <br>
 
 Note de moi du présent :<br>
 ```Bien joué, tu es devenu un Développeur à plein temps, et ce depuis plus d'un an !```<br>
-```Tu as énormément bossé avec PHP et Symfony au final, et cela a été très fructueux !<br>
-Les bus de message RabbitMQ et Kafka, les micro-services, ansible, création d'images docker, t'en as fait de la route !```<br>
+```Tu as énormément bossé avec PHP et Symfony au final, et cela a été très fructueux !```<br>```Les bus de message RabbitMQ et Kafka, les micro-services, Ansible, création d'images Docker, du S.O.L.I.D, l'écriture de CI/CD, le TDD, t'en as fait de la route !```<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Squalalah)](https://github.com/anuraghazra/github-readme-stats)
